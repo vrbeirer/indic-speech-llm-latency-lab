@@ -66,16 +66,10 @@ These charts reflect the **saved notebook run** on 100 examples. Lower WER/CER a
 
 <details open>
 <summary><b>Recognition errors · WER ↓</b></summary>
-
-![WER comparison for Hindi and Kannada](assets/wer-comparison.png)
-
 </details>
 
 <details open>
 <summary><b>Inference time · seconds per audio example ↓</b></summary>
-
-![Mean inference latency comparison](assets/latency-comparison.png)
-
 </details>
 
 <details>
