@@ -1,6 +1,6 @@
 ![SIGNAL // INDIC — animated speech intelligence banner](assets/signal-hero.gif)
 
-# SIGNAL // INDIC
+                                        # SIGNAL // INDIC
 
 
 <div align="center">
