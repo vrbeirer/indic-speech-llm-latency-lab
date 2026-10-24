@@ -1,3 +1,8 @@
+![SIGNAL // INDIC — animated speech intelligence banner](assets/signal-hero.gif)
+
+# SIGNAL // INDIC
+
+
 <div align="center">
 
 ![SIGNAL // INDIC — animated speech waveform](assets/signal-wave.gif)
