@@ -2,7 +2,11 @@
 
 **Speech intelligence, latency, and turn-taking research for Indic languages.**
 
-[Open the Google Colab notebook](https://colab.research.google.com/drive/1GqasiGGlLbPUYyKf6NDzyu1l1kQ9VLwr?usp=sharing) · [GitHub profile](https://github.com/vrbeirer)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GqasiGGlLbPUYyKf6NDzyu1l1kQ9VLwr?usp=sharing)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Languages](https://img.shields.io/badge/Languages-Hindi%20%2F%20Kannada-7C3AED)](#results)
+[![Status](https://img.shields.io/badge/Status-Experimental-0F766E)](#limitations)
 
 > Two speech-LLM architectures. Two Indic languages. One question: how can conversational AI respond naturally without unnecessary delay?
 
